@@ -2,6 +2,7 @@
     display: flex;
     border-bottom: 1px solid gray;
     width: 100%;
+    max-width: 620px;
     margin-bottom: 16px;
     padding: 4px 8px 28px 0;
 }
@@ -10,10 +11,13 @@
     width: 180px;
     min-width: 160px;
     margin-right: 16px;
+    min-height: 100px;
+    max-height: 120px;
 }
 
 .small-card__title{
     display: flex;
     justify-content: center;
     align-items: center;
+    font-size: 14px;
 }
