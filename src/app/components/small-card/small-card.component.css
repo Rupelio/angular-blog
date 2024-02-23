@@ -8,10 +8,10 @@
 }
 
 .small-card__image > img{
-    width: 180px;
+    width: 200px;
     min-width: 160px;
     margin-right: 16px;
-    min-height: 100px;
+    min-height: 90px;
     max-height: 120px;
 }
 
